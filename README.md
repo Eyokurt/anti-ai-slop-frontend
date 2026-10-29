@@ -1,5 +1,7 @@
 # Anti-AI-Slop Frontend Craftsmanship
 
+![anti-ai-slop-frontend](.github/assets/og-image.png)
+
 > Production-grade frontend and UI craftsmanship guidelines for AI coding assistants. Eliminates generic "AI slop" and enforces clean aesthetics, strict semantic HTML, complete 4-state components, SVG-only iconography, authentic copy, and modern CSS/Tailwind discipline.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
